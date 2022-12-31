@@ -7,16 +7,16 @@ Features
     Choose between simple and compound interest
     Calculate the amount you'll have to pay on a home loan
 
-# Requirements
+## Requirements
 
     Python 3
     The math module
 
-# Installation
+## Installation
 
 To use the Investment and Bond Calculator, simply download the script and run it with Python 3.
 
-# Usage
+## Usage
 
 To use the calculator, follow these steps:
 
@@ -25,6 +25,6 @@ To use the calculator, follow these steps:
     Follow the prompts to input the necessary information
     The calculator will output the result
 
-# Feedback
+## Feedback
 
 If you have any feedback, please reach out to me at simon@swhelan.dev
