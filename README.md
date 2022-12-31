@@ -24,3 +24,7 @@ To use the calculator, follow these steps:
     Choose either 'investment' or 'bond' from the menu
     Follow the prompts to input the necessary information
     The calculator will output the result
+
+# Feedback
+
+If you have any feedback, please reach out to me at simon@swhelan.dev
