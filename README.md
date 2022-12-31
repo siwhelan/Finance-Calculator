@@ -1,4 +1,4 @@
-# Investment and Bond Calculator
+# Investment and Bond Calculator 🧮💰🪙
 
 Welcome to the Investment and Bond Calculator! With this program, you can easily calculate the amount of interest you'll earn on your investment or the amount you'll have to pay on a home loan.
 Features
